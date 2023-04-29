@@ -7,3 +7,4 @@
 |    Minería de Datos    |    Y          |
 |    Doctrina   |    Y          |
 | Administración de redes de Datos | Y | 
+| Examenes | Y | 
